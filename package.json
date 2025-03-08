@@ -20,6 +20,7 @@
   "homepage": "https://github.com/UTEP-Agile-SP25/assignment-2-authentication-and-real-time-eoarellano#readme",
   "dependencies": {
     "firebase": "^11.4.0",
+    "firestore": "^1.1.6",
     "webpack": "^5.98.0"
   },
   "devDependencies": {
